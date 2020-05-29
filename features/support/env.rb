@@ -1,0 +1,5 @@
+require 'httparty'
+require 'faker'
+require 'rspec'
+require 'capybara'
+require 'correios-cep'
